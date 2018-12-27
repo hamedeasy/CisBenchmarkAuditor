@@ -5,7 +5,7 @@ echo
 echo 
 echo "                         Audit Script                          "
 echo "          Oracle Database 11g R2 - Security Auditor            "
-echo "                         Hamed Izadi (@hezd)                   "
+echo "                      Hamed Izadi (@hezd)                      "
 echo
 echo "###############################################################"
 echo "###############################################################"
